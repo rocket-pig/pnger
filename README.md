@@ -1,6 +1,7 @@
 # pnger
 ### Convert data into, and back out of, functioning PNG format images
 ![preview](https://i.ibb.co/MRp7GVw/test.png)
+
 No dependencies outside of stdlib! Doesn't even require PIL/Pillow.
 
 pnger converts arbitrary binary data in and out of png format.  Call it from command line or
