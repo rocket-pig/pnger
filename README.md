@@ -19,3 +19,10 @@ To convert a PNG back to data:
 
 `python3 pnger.py pngfile.png <output file>`
 
+
+...what's super cool is that the output image ends up smaller! than the input file, due to zlib compression:
+```
+user@x230:~/pngerstudy$ du  test.png tmp.mp3 
+5732	test.png
+5780	tmp.mp3
+```
