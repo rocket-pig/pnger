@@ -26,3 +26,6 @@ user@x230:~/pngerstudy$ du  test.png tmp.mp3
 5732	test.png
 5780	tmp.mp3
 ```
+
+
+Also check out the successor to this, https://github.com/rocket-pig/pnger-js pnger in javascript, which has a live demo at http://promptism.geocities.org/pnger.html
